@@ -13,6 +13,6 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    std::cout << "Hello, Universe!\n";
+    cout << "Hello, Universe!\n";
     return 0;
 }

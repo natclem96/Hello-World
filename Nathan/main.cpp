@@ -4,11 +4,15 @@
 //
 //  Created by Nathan on 10/23/20.
 //
+// Nathan Clemmons
+// CIS 1202.501
+// 10/23/2020
 
 #include <iostream>
 
+using namespace std;
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, Universe!\n";
     return 0;
 }
